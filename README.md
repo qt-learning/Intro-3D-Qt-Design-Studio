@@ -1,7 +1,6 @@
 # Intro-to-QML
  
-This is the repo for the introduction to QML course on Qt Academy.
-
+This is the repo for the 3D with Qt Design Studio Course on Qt Academy.
 
 ## Getting Started
 - Navigate to the root folder and open the `Intro3DQtDesignStudio.qmlproject` file with Qt Design Studio. You will be greeted with the final application based on an ste;s seen in the course.
